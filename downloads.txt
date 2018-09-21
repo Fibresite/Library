@@ -49,4 +49,5 @@ Library | github.com/vuejs/vue/releases
 
 - Normalize -
 Website  | necolas.github.io/normalize.css
+Library  | github.com/necolas/normalize.css
 Download | necolas.github.io/normalize.css/8.0.0/normalize.css
