@@ -1,0 +1,48 @@
+- Filled Line Finder -
+Regular Expression
+Find    | ^[ \t]*$\r?\n
+Replace | \n
+
+
+- Trailing White Spaces -
+Regular Expression
+Find    |  \r\n
+Replace | \n
+
+
+- Empty Lines with Spaces -
+Regular Expression
+Find    | ^ +$
+Replace | Blank
+
+- HTML Viewer -
+htmledit.squarefree.com
+w3schools.com/html/tryit.asp?filename=tryhtml_intro
+jsfiddle.net
+codepen.io/pen
+
+- Screen Resolution Viewer -
+cybercrab.com/screencheck
+quirktools.com/screenfly
+
+- Difference Checker -
+mergely.com/editor
+diffchecker.com
+
+- HTML Beautify -
+htmlformatter.com
+
+- HTML Minify -
+kangax.github.io/html-minifier
+minifycode.com/html-minifier
+htmlcompressor.com/compressor
+
+- RGB Colour Picker -
+rapidtables.com/web/color/RGB_Color.htm#color-picker
+
+- SCSS Compiler -
+sassmeister.com
+
+- JavaScript & jQuery -
+youmightnotneedjs.com
+youmightnotneedjquery.com

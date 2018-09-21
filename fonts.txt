@@ -1,0 +1,20 @@
+- Font Face Generator -
+Source | transfonter.org
+
+- Josefin Sans -
+Name    | Josefin Sans
+Source  | fonts.google.com/specimen/Josefin+Sans?selection.family=Josefin+Sans
+Library | fonts.googleapis.com/css?family=Josefin+Sans
+
+- Pontano Sans -
+Name    | Pontano Sans
+Library | fonts.googleapis.com/css?family=Pontano+Sans
+
+- Century Gothic -
+Name    | Century Gothic
+Library | fonts.googleapis.com/css?family=Century+Gothic
+
+- Font Awesome -
+Name    | FontAwesome
+Source  | cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+Library | cdnjs.com/libraries/font-awesome
