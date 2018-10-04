@@ -4,11 +4,11 @@
     font-style: normal;
     font-weight: 900;
 
-    src: url("FontAwesomeSolid.woff2") format("woff2"),
+    src: url("https://fibresite.github.io/Library/FontAwesome/Free/5.3.1/FontAwesomeSolid.woff2") format("woff2"),
 
-         url("FontAwesomeSolid.woff") format("woff"),
+         url("https://fibresite.github.io/Library/FontAwesome/Free/5.3.1/FontAwesomeSolid.woff") format("woff"),
 
-         url("FontAwesomeSolid.ttf") format("truetype");
+         url("https://fibresite.github.io/Library/FontAwesome/Free/5.3.1/FontAwesomeSolid.ttf") format("truetype");
 
 }
 
@@ -25,11 +25,11 @@
     font-style: normal;
     font-weight: 400;
 
-    src: url("FontAwesomeRegular.woff2") format("woff2"),
+    src: url("https://fibresite.github.io/Library/FontAwesome/Free/5.3.1/FontAwesomeRegular.woff2") format("woff2"),
 
-         url("FontAwesomeRegular.woff") format("woff"),
+         url("https://fibresite.github.io/Library/FontAwesome/Free/5.3.1/FontAwesomeRegular.woff") format("woff"),
 
-         url("FontAwesomeRegular.ttf") format("truetype");
+         url("https://fibresite.github.io/Library/FontAwesome/Free/5.3.1/FontAwesomeRegular.ttf") format("truetype");
 
 }
 
@@ -46,11 +46,11 @@
     font-style: normal;
     font-weight: 300;
 
-    src: url("FontAwesomeLight.woff2") format("woff2"),
+    src: url("https://fibresite.github.io/Library/FontAwesome/Free/5.3.1/FontAwesomeLight.woff2") format("woff2"),
 
-         url("FontAwesomeLight.woff") format("woff"),
+         url("https://fibresite.github.io/Library/FontAwesome/Free/5.3.1/FontAwesomeLight.woff") format("woff"),
 
-         url("FontAwesomeLight.ttf") format("truetype");
+         url("https://fibresite.github.io/Library/FontAwesome/Free/5.3.1/FontAwesomeLight.ttf") format("truetype");
 
 }
 
@@ -67,11 +67,11 @@
     font-style: normal;
     font-weight: normal;
 
-    src: url("FontAwesomeBrands.woff2") format("woff2"),
+    src: url("https://fibresite.github.io/Library/FontAwesome/Free/5.3.1/FontAwesomeBrands.woff2") format("woff2"),
 
-         url("FontAwesomeBrands.woff") format("woff"),
+         url("https://fibresite.github.io/Library/FontAwesome/Free/5.3.1/FontAwesomeBrands.woff") format("woff"),
 
-         url("FontAwesomeBrands.ttf") format("truetype");
+         url("https://fibresite.github.io/Library/FontAwesome/Free/5.3.1/FontAwesomeBrands.ttf") format("truetype");
 
 }
 
