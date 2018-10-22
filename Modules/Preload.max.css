@@ -1,0 +1,13 @@
+﻿:root:before {
+
+    content: url("");
+    visibility: visible;
+    position: absolute;
+    overflow: hidden;
+    display: inline;
+    opacity: 0.0;
+    z-index: -1;
+    height: 0px;
+    width: 0px;
+
+}
